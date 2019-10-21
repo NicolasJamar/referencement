@@ -4,7 +4,7 @@ All tips and tricks about referencement
 
 
 - tag <title>
-- Hiérarchisation des titres <h1>, <h2>
+- Hiérarchisation des titres `<h1> <h2>`
 - Sémantique
 - meta tags
 - meta viewport
@@ -12,3 +12,4 @@ All tips and tricks about referencement
 - robots.txt
 - Sitemaps
 - manifest.json
+- Google Search Console
