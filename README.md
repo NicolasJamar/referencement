@@ -2,7 +2,7 @@
 All tips and tricks about referencement
 
 
-
+- HTTPS
 - tag <title>
 - Hiérarchisation des titres `<h1> <h2>`
 - Sémantique
