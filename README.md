@@ -14,3 +14,4 @@ All tips and tricks about referencement
 - Sitemaps
 - manifest.json
 - Google Search Console
+- Google Analytics
