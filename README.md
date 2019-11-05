@@ -15,3 +15,4 @@ All tips and tricks about referencement
 - manifest.json
 - Google Search Console
 - Google Analytics
+- Google AdWords
