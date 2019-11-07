@@ -10,6 +10,7 @@ All tips and tricks about referencement
 - meta tags
 - meta viewport
 - facebook tags + twitter
+- http://schema.org
 - robots.txt
 - Sitemaps
 - manifest.json
